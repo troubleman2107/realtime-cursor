@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711898487553,
+      "tag": "0000_cute_adam_warlock",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711899058256,
+      "tag": "0001_vengeful_doomsday",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711900392232,
+      "tag": "0002_amazing_the_liberteens",
+      "breakpoints": true
+    }
+  ]
+}
